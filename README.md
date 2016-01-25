@@ -1,4 +1,4 @@
-# The Color Maker
+# [The Color Maker](https://krikmo.github.io/colors.html)
 ## *Give a color, get a color*
 
 Have you ever needed to have a whole page in a single color? Not even once? Ok then.
