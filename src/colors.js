@@ -1,4 +1,4 @@
-var theColor = prompt("Tell me a color", "all lowercase, please");
+var theColor = window.prompt("Tell me a color", "all lowercase, please");
 
 if (theColor === "black") {
     document.body.style.background = "black";
